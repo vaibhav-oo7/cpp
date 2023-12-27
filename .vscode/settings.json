@@ -1,6 +1,21 @@
 {
-    "C_Cpp.default.compilerPath": "",
-    "files.associations": {
-        "iostream": "cpp"
-    }
+  "C_Cpp.default.compilerPath": "",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "cmath": "cpp",
+    "tuple": "cpp",
+    "regex": "cpp",
+    "span": "cpp",
+    "chrono": "cpp",
+    "type_traits": "cpp",
+    "variant": "cpp",
+    "ranges": "cpp"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
 }

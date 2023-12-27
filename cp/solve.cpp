@@ -38,6 +38,10 @@ void ab_d(){
 int32_t main()
 {
     ab_d();
-
+    int t;
+    cin>>t;
+    while(t--){
+        
+    }
     return 0;
 }

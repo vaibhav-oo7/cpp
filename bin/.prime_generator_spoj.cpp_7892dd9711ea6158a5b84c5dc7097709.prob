@@ -1,0 +1,1 @@
+{"name":"Local: prime_generator_spoj","url":"/Users/apple/Documents/cpp/prime_generator_spoj.cpp","tests":[{"id":1703177261662,"input":"2\n1 10\n3 5","output":"2\n3\n5\n7\n\n3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Documents/cpp/prime_generator_spoj.cpp","group":"local","local":true}
